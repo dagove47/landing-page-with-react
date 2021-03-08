@@ -11,3 +11,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background: white;
+    margin: 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardWidth{
+    width: 16rem;
+}
+.cardWidth img{
+    height: 13rem;
+}
+.footerStyle{
+    margin-top: 1.5em;
+    height: 5em;
+}
+.footerText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
